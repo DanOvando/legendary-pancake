@@ -1,5 +1,7 @@
-# this was Dan's decision: and it was a good one
+# this was Dan's decision
 # other things to ignore
+# 
+# 
 *.Rproj
 # History files
 .Rhistory
